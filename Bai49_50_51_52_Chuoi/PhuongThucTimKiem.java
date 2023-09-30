@@ -15,6 +15,7 @@ public class PhuongThucTimKiem {
         System.out.println("Vị trí của c1 trong s1: " + s1.indexOf(c1, 21));
 
         System.out.println("Vị trí của c1 trong s1: " + s1.lastIndexOf(c1));
+        System.out.println();
 
     }
 }

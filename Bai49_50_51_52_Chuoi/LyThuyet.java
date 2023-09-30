@@ -15,7 +15,8 @@ public class LyThuyet {
         + getBytes(): lấy ra giá trị của từng ký tự
     Phương thức so sánh lớp String
      - equals(...): so sánh 2 chuỗi giống nhau(có phân biệt hoa, thường)
-
+     - equalsIgnoreCase(): so sanh giong nhau (khong phan biet chu hoa, chu thuong) 
+     - compareTo
     /*
       Phương thức tìm kiếm chuỗi
          + indexOf(): tìm kiếm từ bên trái sang bên phải
