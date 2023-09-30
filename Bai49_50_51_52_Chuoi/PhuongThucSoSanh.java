@@ -32,7 +32,7 @@ public class PhuongThucSoSanh {
         System.out.println("a compareToIgnoreCase c: " + a.compareToIgnoreCase(c)); 
         System.out.println();
 
-        //Hàm reggionMatches ==> so sánh 1 đoạn
+        //Hàm regionMatches ==> so sánh 1 đoạn
         String r1 = "LXT.vn";
         String r2 = "XT.v";
         boolean check = r1.regionMatches(1, r2, 0, 4);
